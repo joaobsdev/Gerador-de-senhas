@@ -1,28 +1,45 @@
-# Gerador de Senhas
+# 🔐 Gerador de Senhas
 
-App simples em **React + Vite** para gerar senhas aleatórias, com controles de:
+Um gerador de senhas moderno feito com React + Vite.
 
-- **Tamanho**
-- **Quantidade de dígitos**
-- **Quantidade de símbolos**
-- **Copiar senha** com um clique
+---
 
-## Como rodar
+## Funcionalidades
+
+- Definir tamanho da senha
+- Escolher quantidade de dígitos
+- Escolher quantidade de símbolos
+- Senha gerada em tempo real
+- Botão para copiar
+
+---
+
+## Tecnologias
+
+- React
+- Vite
+- CSS
+
+---
+
+## Deploy
+
+Acesse o projeto online: https://gerador-de-senhas-874l.vercel.app
+
+## Rodando localmente
 
 Instale as dependências:
 
 ```bash
 npm install
-```
 
 Rode em modo desenvolvimento:
 
-```bash
 npm run dev
-```
 
 Build de produção:
 
-```bash
 npm run build
-```
+👉 https://SEU-LINK-VERCEL.vercel.app
+
+--
