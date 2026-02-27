@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  color: #fff;
+  background-color: rgba(0, 8, 31, 0.79);
+}
+
+.container {
+  max-width: 450px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 28px;
+}
+
+.app-title {
+  margin-bottom: 2rem;
+}
